@@ -1,0 +1,132 @@
+body{
+	margin-bottom: 50px
+}
+
+.search{
+	margin-top: 25px;
+	
+}
+.imgframe{
+	max-width: 50%;
+	margin-left: 25%;
+}
+
+.page-top{
+    margin: 0;
+	background: #000;
+	color: #fff;
+}
+
+.image{
+	max-width: 100%;
+}
+.mailTop{
+	margin-left: 10px;
+}
+
+.btn .btn-danger{
+	padding-bottom: 15px;
+}
+
+.page-header{
+	margin-top: 0;
+	background-color: #660000;
+	color: #fff;
+	border-radius: 15px;
+}
+.page-header h1{
+	padding-top: 15px;
+	padding-left: 10px;
+}
+.panel-body{
+	padding-top: 0;
+}
+.krepselis {
+	margin-top: 15px;
+	border-radius: 15px;
+	font-size: 15px;
+	background-color:  #660000;
+}
+.dropdown-menu{
+	background-color:  #660000;
+}
+
+.IamHere{
+	background-color:  #990000;
+	border-radius: 10px;
+}
+
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus {
+  color: #fff;
+  text-decoration: none;
+  background-color: #990000;
+}
+
+#tab{
+	color: #fff ;
+}
+
+.info-box{
+	text-align: center;
+	padding-top: 15px;
+}
+p.space{
+	visibility:hidden;
+	padding-top: 20px;
+}
+nav ul.nav li{
+	color: #fff;
+	border-left: 12px;
+
+}
+.newsletter{
+	margin-left: 30%;
+	margin-top: 20px;
+}
+
+nav.nav {
+	border-radius: 15px;
+	margin-top: 15px;
+	background-color:  #660000;
+}
+div.jumbotron {
+	padding-top: 5px;
+	margin-top: 15px;
+	padding-bottom: 10px;
+}
+i.fa{
+	font-size: 25px;
+	margin-right: 10px;
+}
+button > i.fa{
+	font-size: 20px;
+	margin: 0;
+}
+h6 > i.fa{
+	font-size: 20px;
+	margin-left: 10px;
+}
+.social i.fa{
+	font-size: 55px;
+}
+
+.v-separator
+{
+	border-radius: 10px;
+    border: 1px solid #b4b4b4;
+    padding: 10px;
+}
+
+nav.topNav{
+    border-radius: 0;
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+.itemsMenu{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+#myCarousel{
+    margin-bottom: 15px;
+}
